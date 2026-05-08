@@ -3,6 +3,7 @@ This project was made locally and does not have version control or commits in th
 
 **Description:**
 This is a 2D lane runner game made with the theme of vaporwave where a goose flys through a vaporwave styled space world and switches lanes to avoid getting hit asteroids.
+This helps with my career because it helps further my knowledge of backend design so I can create more backend friendly UX/UI designs.
 
 **Play instructions:**
 https://drive.google.com/drive/folders/1EevyThTVNTvN3x1eVJOSK1vDLfOFsYx9?usp=sharing
